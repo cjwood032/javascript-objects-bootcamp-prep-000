@@ -1,1 +1,1 @@
-var playlist = {artist: ’s
+var playlist = {artist: 
